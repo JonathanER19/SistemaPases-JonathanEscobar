@@ -15,7 +15,7 @@
 Este proyecto como tal consiste en calcular la fecha tentativa de expiracion del pase del auto desde la feha de Inicio que se ingrese hasta la fecha actual ( Today() ) 
 y tambien calcular la candidad de pases restantes hasta fecha actual. En base a la logica de las tarifas dependiendo del tipo de pase (mensual, semestral o anual)
 
-Documentación revisada para poder desarrollar este proyecto
+# Documentación revisada para poder desarrollar este proyecto
 Para desarrollar este proyecto me base en tutoriales de React y Node.js
 https://www.youtube.com/watch?v=VxRXlUrV6y0
 https://www.youtube.com/watch?v=iHqa6ojKnHI
